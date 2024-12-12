@@ -1,2 +1,2 @@
 # AnomalyDetection
-This is an anomaly detection platform for industrial.
+This is an anomaly detection platform for industrial production. Demo and code will be released soon...
