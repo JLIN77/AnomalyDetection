@@ -1,3 +1,3 @@
 # AnomalyDetection
 This is an anomaly detection platform for industrial production. Demo and code will be released soon...
-- update: a demo video uploaded.
+- Update: a demo video uploaded.
