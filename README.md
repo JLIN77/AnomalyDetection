@@ -7,8 +7,7 @@ Demo and code will be released soon...
 
 ## Update: 
 - Demo video.
-- 
-Bilibili 演示视频: [点击观看](https://www.bilibili.com/video/BV1VE2VBrEBw/?autoplay=0)
+%Bilibili 演示视频: [点击观看](https://www.bilibili.com/video/BV1VE2VBrEBw/?autoplay=0)
 
 
 - Pipeline.
