@@ -9,6 +9,11 @@ Demo and code will be released soon...
 - Demo video.
 
 [![Watch on YouTube](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](/demo.mp4)
+### 🎥 Demo 视频  
+点击下方链接直接播放：
+
+👉 https://github.com/<user>/<repo>/blob/main/demo.mp4
+
 
 
 
