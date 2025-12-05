@@ -8,11 +8,7 @@ Demo and code will be released soon...
 ## Update: 
 - Demo video.
 
-[![Watch on YouTube](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](/demo.mp4)
-### 🎥 Demo 视频  
-点击下方链接直接播放：
-
-👉 https://github.com/JLIN77/AnomalyDetection/blob/main/demo.mp4
+[![Video Demo](https://raw.githubusercontent.com/JLIN77/AnomalyDetection/main/video_cover.svg)](https://github.com/JLIN77/AnomalyDetection/blob/main/demo.mp4)
 
 
 
