@@ -7,6 +7,8 @@ Demo and code will be released soon...
 
 ## Update: 
 - Demo video.
+- [![Watch the video](./thumbnail.png)](https://www.bilibili.com/video/BV1VE2VBrEBw/?spm_id_from=333.1365.list.card_archive.click&vd_source=dcc12a6fc4b4581b6a4578b624a7e6e6)
+
 
 
 🎥 **Demo Video (click to download)**  
