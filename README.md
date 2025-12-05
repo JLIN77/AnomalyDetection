@@ -12,7 +12,7 @@ Demo and code will be released soon...
 ### 🎥 Demo 视频  
 点击下方链接直接播放：
 
-👉 https://github.com/<user>/<repo>/blob/main/demo.mp4
+👉 https://github.com/JLIN77/AnomalyDetection/demo.mp4
 
 
 
