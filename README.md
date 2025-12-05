@@ -1,5 +1,5 @@
 # AnomalyDetection
-Original Project Name: "Grasping of Bearing Workpieces Based on 3D Vision".
+Original Project Name: "Anomaly Detection for Automotive Battery Packs".
 
 This is an anomaly detection platform for industrial production. 
 
