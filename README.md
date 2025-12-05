@@ -9,7 +9,7 @@ Demo and code will be released soon...
 - Demo video.
 
 
-🎥 **Demo Video (click to play)**  
+🎥 **Demo Video (click to download)**  
 https://github.com/JLIN77/AnomalyDetection/releases/download/release/demo.mp4
 
 
