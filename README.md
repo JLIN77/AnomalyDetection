@@ -8,7 +8,7 @@ Demo and code will be released soon...
 ## Update: 
 - Demo video.
 
-[![Demo video]([./thumbnail.png](https://cdn-icons-png.flaticon.com/128/3845/3845856.png))](./demo.mp4)
+[![Demo video]([./thumbnail.png](https://cdn-icons-png.flaticon.com/128/3845/3845856.png))](https://github.com/JLIN77/AnomalyDetection/blob/main/demo.mp4)
 
 
 - Pipeline.
