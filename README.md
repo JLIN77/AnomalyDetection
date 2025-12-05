@@ -4,5 +4,5 @@ This is an anomaly detection platform for industrial production.
 Demo and code will be released soon...
 - Update: a demo video uploaded.
 - Pipeline.
-<img src="./pipeline.png" alt="示例图片" width="300">
+<img src="./pipeline.png" alt="示例图片" width="900">
 
